@@ -15,7 +15,7 @@ Here is a screen shot of the simple model for a car and track in the blender gam
 
 Upcoming updates include: 
 - use of batch normalization to accelerate the training of the neural network. 
-- replace the ad hoc UDP communication with the Blender-python interface module (Blender Learning Environment)I recently 
+- replace the ad hoc UDP communication with the Blender-python interface module (Blender Learning Environment) that I recently 
 developed for machine learning purposes (https://github.com/LouisFoucard/BLE_python_interface)
 
 
